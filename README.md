@@ -23,6 +23,7 @@ I enjoy turning ideas into working products and continuously improving through h
 ## 📫 Connect
 - GitHub: https://github.com/KrenntCraven
 - LinkedIn: https://www.linkedin.com/in/krennt-craven/
+- Portfolio: https://krennt-craven.vercel.app/
 - Email: krenntc@gmail.com
 
 Thanks for visiting my profile.
