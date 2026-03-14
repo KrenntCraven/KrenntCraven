@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Krennt Craven 👋
 
-<!--
-**KrenntCraven/KrenntCraven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical web and software projects across TypeScript, JavaScript, Python, and mobile development.  
+I enjoy turning ideas into working products and continuously improving through hands-on builds.
 
-Here are some ideas to get you started:
+## 🚀 What I Work On
+- Frontend and full-stack web projects
+- Personal portfolio and product experiments
+- Mobile app development with Dart
+- Learning-focused projects in Java and data/statistics tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: TypeScript, JavaScript, Python, Java, ASP.NET, Dart, R
+- Frontend: React, Angular, Next.js, Flutter
+- Interests: Product development, automation-ready workflows, UI/UX, full-stack applications
+
+## 🌱 Currently
+- Building stronger full-stack architecture skills
+- Cloud solutions
+- Improving project quality and deployment workflows
+- Expanding production-ready portfolio projects
+
+## 📫 Connect
+- GitHub: https://github.com/KrenntCraven
+- LinkedIn: https://www.linkedin.com/in/krennt-craven/
+- Email: krenntc@gmail.com
+
+Thanks for visiting my profile.
